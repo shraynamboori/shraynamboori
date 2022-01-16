@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @shraynamboori
+- 👀 I’m interested in UX and front end development....
+- 🌱 I’m currently learning HTML.
+- 💞️I am not from a technological field but really interested in starting my career in the IT. I would really appreciate if someone can help me mastering html since I am just starting.
+- 📫 You can reach me on shraykumarpanther@gmail.com.
